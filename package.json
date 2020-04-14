@@ -1,5 +1,5 @@
 {
-    "name": "nicehash-api",
+    "name": "@oipwg/nicehash-api",
     "version": "2.0.1",
     "description": "javascript wrapper for nicehash api",
     "main": "lib/index.js",
@@ -10,10 +10,10 @@
         "test-all": "jest --runInBand",
         "test": "jest api.test.js"
     },
-    "author": "iameddieyayaya",
+    "author": "iameddieyayaya&bradicalone",
     "repository": {
         "type": "git",
-        "url": "git+https://github.com/iameddieyayaya/nicehash-api.git"
+        "url": "git+https://github.com/oipwg/nicehash-api.git"
     },
     "license": "ISC",
     "dependencies": {

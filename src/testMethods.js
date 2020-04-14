@@ -1,10 +1,10 @@
-import config from './config'
-import NiceHashApi from './api'
+// import config from './config'
+// import NiceHashApi from './api'
 
-var log = function() {
-    return console.log(...arguments)
-}
-const api = new NiceHashApi(config)
+// var log = function() {
+//     return console.log(...arguments)
+// }
+// const api = new NiceHashApi(config)
 
 // api.getBalance()
 // api.createOrder()
